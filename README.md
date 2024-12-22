@@ -1,5 +1,5 @@
 
-Web Development Intern - Task 2: Stopwatch WWeb Application
+Web Development Intern - Task 2: Stopwatch Web Application
 
 A web-based stopwatch application designed for time management and productivity. Built using HTML, CSS, and JavaScript, it offers a clean, responsive interface packed with essential features.
 
